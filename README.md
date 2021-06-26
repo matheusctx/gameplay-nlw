@@ -9,21 +9,11 @@
 
 ![cover](.github/cover.png?style=flat)
 
-## Guia de navegação
-
- - [O Projeto](#o-projeto)
- - [Features](#features)
- - [Tecnologias](#tecnologias)
- - [Recursos e bibliotecas](#recursos-e-bibliotecas)
- - [Layout](#layout)
- - [Executando o projeto](#executando-o-projeto)
+## O Projeto
+Aplicativo que ajuda a se conectar e organizar o momento de diversão para jogar com os amigos. Crie grupos para jogar seus games favoritos nesse App que possui autenticação e integração com o Discord.
 
 
-## 💻 O Projeto
-Aplicativo para lhe ajudar a conectar-se e organiza o momento de diversão e jogar com os amigos. Crie grupos para jogar seus games favoritos com seus amigos com esse App que possui autenticação com Discord.
-
-
-## 🛠️ Features 
+## Features 
 
 -   Autenticação Social OAuth2 com servidor do Discord;
 -   Obtém perfil do usuário cadastro no Discord (username e avatar);
@@ -37,13 +27,13 @@ Aplicativo para lhe ajudar a conectar-se e organiza o momento de diversão e jog
 - NEW: Modal de confirmação do logout do usuário.
 
 
-## ✨ Tecnologias
+## Tecnologias
 
 - [![Expo](https://img.shields.io/badge/-Expo-blue.svg?style=flat-square&logo=Expo&color=000020&logoColor=fff)](https://expo.io/)
 - [![React Native](https://img.shields.io/badge/-ReactNative-blue.svg?style=flat-square&logo=React&color=61DAFB&logoColor=000)](https://reactnative.dev/)
 - [![TypeScript](https://img.shields.io/badge/-TypeScript-blue.svg?style=flat-square&logo=TypeScript&color=007ACC&logoColor=fff)](https://www.typescriptlang.org/)
 
-## 🧪 Recursos e bibliotecas
+## Recursos e bibliotecas
 
 -   ContextAPI
 -   Async Storage
@@ -60,12 +50,12 @@ Aplicativo para lhe ajudar a conectar-se e organiza o momento de diversão e jog
 -   Deep Link
 
 
-## 🔖 Layout
+## Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/0kv33XYjvOgvKGKHBaiR07/GamePlay-NLW-Together/duplicate). Vale lembrar que é necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
 
-## 🚀 Executando o projeto
+## Executando o projeto
 
 Clone o projeto e acesse a pasta de download.
 
